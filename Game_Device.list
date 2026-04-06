@@ -1,0 +1,5 @@
+# Game console device rules
+
+SRC-IP,192.168.50.5
+SRC-IP,192.168.50.7
+SRC-IP,192.168.50.24
