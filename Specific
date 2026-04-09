@@ -1,0 +1,5 @@
+# Specific website rules for Surge RULE-SET
+
+DOMAIN-KEYWORD,
+DOMAIN-SUFFIX,
+DOMAIN,
