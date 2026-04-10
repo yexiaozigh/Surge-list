@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN,desktop.chat.openai.com
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workoscdn.com
