@@ -47,3 +47,12 @@ servd-anthropic-website.b-cdn.net
 anthropic.auth0.com
 anthropic-com.ghost.io
 .sentry.io
+
+.workos.com
+.workoscdn.com
+.statsigapi.net
+.featureassets.org
+.intercom.io
+.intercomcdn.com
+.ct.sendgrid.net
+.statsig.com
