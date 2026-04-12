@@ -1,0 +1,9 @@
+# Bahamut Custom Rules
+# gamer 主站
+DOMAIN-SUFFIX,gamer.com.tw
+
+# 静态资源
+DOMAIN-SUFFIX,bahamut.com.tw
+
+# 视频 CDN
+DOMAIN-SUFFIX,bahamut.akamaized.net
