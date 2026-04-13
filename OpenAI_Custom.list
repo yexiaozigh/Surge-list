@@ -1,26 +1,15 @@
-# OpenAI App custom patch rules for Surge RULE-SET
+# OpenAI App custom patch rules
 
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-KEYWORD,openai
 
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,cdn.openai.com
-
-DOMAIN,desktop.chat.openai.com
-DOMAIN-SUFFIX,ios.chat.openai.com
 
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workoscdn.com
 
-DOMAIN,humb.apple.com
-
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 
 DOMAIN-SUFFIX,oaistatic.com
