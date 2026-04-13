@@ -10,3 +10,8 @@ DOMAIN-SUFFIX,bitkeep.app
 
 # Bitkeep infra
 DOMAIN-SUFFIX,chainnear.com
+
+# OKX (补充官方偶尔遗漏)
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okxcdn.com
