@@ -26,3 +26,16 @@ DOMAIN-SUFFIX,you.com
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
+
+# Microsoft AI / Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.ai
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
+
+# Microsoft AI CDN
+DOMAIN-SUFFIX,ai.microsoft.com
+DOMAIN-SUFFIX,api.bing.microsoft.com
+DOMAIN-SUFFIX,chat.microsoft.com
