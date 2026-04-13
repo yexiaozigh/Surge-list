@@ -1,0 +1,21 @@
+# Gemini / Google AI core
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.googleusercontent.com
+DOMAIN-SUFFIX,bard.google.com
+
+# Gemini API
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+
+# Gemini assets
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+
+# Gemini realtime / streaming
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+
+# Gemini infra
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
