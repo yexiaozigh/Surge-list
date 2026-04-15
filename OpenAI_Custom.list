@@ -1,36 +1,23 @@
-# OpenAI App custom patch rules
+# OpenAI / ChatGPT custom supplement
+# 目标：补官方 allowlist 中 BM7 未完整覆盖、或你实际环境更容易遇到的域
+# 原则：少用模糊匹配，不用 extended-matching
 
-DOMAIN-KEYWORD,chatgpt
-DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,auth.openai.com
 
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN,setup.auth.openai.com
+DOMAIN,desktop.chat.openai.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,android.chat.openai.com
 
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,auth0.openai.com
-
-DOMAIN-SUFFIX,voice.openai.com
-DOMAIN-SUFFIX,realtime.openai.com
-
-DOMAIN-SUFFIX,workos.com
-DOMAIN-SUFFIX,workoscdn.com
-
+DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
 
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,cdn.oaistatic.com
-DOMAIN-SUFFIX,static.oaistatic.com
+DOMAIN,cdn.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,setup.workos.com
+DOMAIN,images.workoscdn.com
 
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,files.oaiusercontent.com
-DOMAIN-SUFFIX,images.oaiusercontent.com
 DOMAIN-SUFFIX,chatgptusercontent.com
 
-DOMAIN-SUFFIX,openai.azureedge.net
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-
+# 如果你确认自己会用到 Sora，再保留下面这一条
 DOMAIN-SUFFIX,sora.com
-DOMAIN,sora-cdn.oaistatic.com
