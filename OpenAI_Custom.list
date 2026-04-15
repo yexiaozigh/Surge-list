@@ -3,6 +3,7 @@
 
 DOMAIN,ios.chat.openai.com,extended-matching
 DOMAIN,ab.chatgpt.com,extended-matching
+DOMAIN,ws.chatgpt.com,extended-matching
 
 DOMAIN-SUFFIX,auth.openai.com
 
