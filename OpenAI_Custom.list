@@ -1,12 +1,13 @@
 # OpenAI / ChatGPT custom supplement
 # 目标：补官方 allowlist 中 BM7 未完整覆盖、或你实际环境更容易遇到的域
-# 原则：少用模糊匹配，不用 extended-matching
+
+DOMAIN,ios.chat.openai.com,extended-matching
+DOMAIN,ab.chatgpt.com,extended-matching
 
 DOMAIN-SUFFIX,auth.openai.com
 
 DOMAIN,setup.auth.openai.com
 DOMAIN,desktop.chat.openai.com
-DOMAIN,ios.chat.openai.com
 DOMAIN,android.chat.openai.com
 
 DOMAIN-SUFFIX,statsig.com
@@ -19,5 +20,5 @@ DOMAIN,images.workoscdn.com
 
 DOMAIN-SUFFIX,chatgptusercontent.com
 
-# 如果你确认自己会用到 Sora，再保留下面这一条
+# Optional if you use Sora
 DOMAIN-SUFFIX,sora.com
