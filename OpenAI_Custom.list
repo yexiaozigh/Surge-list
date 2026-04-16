@@ -15,7 +15,8 @@ DOMAIN,forwarder.workos.com
 DOMAIN,setup.workos.com
 DOMAIN,images.workoscdn.com
 
-DOMAIN-SUFFIX,chatgptusercontent.com
+DOMAIN,featureassets.org
+DOMAIN,workos.imgix.net
+DOMAIN,cdn.openaimerge.com
 
-# Optional if you use Sora
-DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,chatgptusercontent.com
