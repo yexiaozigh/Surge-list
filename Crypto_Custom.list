@@ -1,12 +1,17 @@
-# Bitget
+# Bitget / Bitkeep
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
 
-# Bitget Wallet / historical BitKeep domains
+DOMAIN-SUFFIX,bitkeep.vip
 DOMAIN-SUFFIX,bitkeep.com
 DOMAIN-SUFFIX,bitkeep.io
+DOMAIN-SUFFIX,bitkeep.net
+DOMAIN-SUFFIX,bitkeep.app
 
-# OKX
+# Bitkeep infra
+DOMAIN-SUFFIX,chainnear.com
+
+# OKX (补充官方偶尔遗漏)
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okxcdn.com
