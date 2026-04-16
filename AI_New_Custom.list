@@ -1,7 +1,4 @@
-# Perplexity
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,perplexitycdn.com
+# 辅助 AI 规则集
 
 # Poe (Quora AI)
 DOMAIN-SUFFIX,poe.com
@@ -11,29 +8,14 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.x.ai
 
-# Character AI
-DOMAIN-SUFFIX,character.ai
-DOMAIN-SUFFIX,c.ai
-
-# Mistral
-DOMAIN-SUFFIX,mistral.ai
-
-# Phind
-DOMAIN-SUFFIX,phind.com
-
-# You.com AI
-DOMAIN-SUFFIX,you.com
-
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
 
 # Microsoft AI / Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.ai
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN,edgeservices.bing.com
+DOMAIN,sydney.bing.com
 
 # Microsoft AI CDN
 DOMAIN-SUFFIX,ai.microsoft.com
