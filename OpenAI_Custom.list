@@ -1,10 +1,6 @@
 # OpenAI / ChatGPT custom supplement
 # 目标：补官方 allowlist 中 BM7 未完整覆盖、或你实际环境更容易遇到的域
 
-DOMAIN,ios.chat.openai.com,extended-matching
-DOMAIN,ab.chatgpt.com,extended-matching
-DOMAIN,ws.chatgpt.com,extended-matching
-
 DOMAIN-SUFFIX,auth.openai.com
 
 DOMAIN,setup.auth.openai.com
