@@ -2,21 +2,16 @@
 # 目标：补官方 allowlist 中 BM7 未完整覆盖、或你实际环境更容易遇到的域
 
 DOMAIN-SUFFIX,auth.openai.com
-
 DOMAIN,setup.auth.openai.com
 DOMAIN,desktop.chat.openai.com
 DOMAIN,android.chat.openai.com
-
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
-
 DOMAIN,cdn.workos.com
 DOMAIN,forwarder.workos.com
 DOMAIN,setup.workos.com
 DOMAIN,images.workoscdn.com
-
-DOMAIN,featureassets.org
 DOMAIN,workos.imgix.net
+DOMAIN,featureassets.org
 DOMAIN,cdn.openaimerge.com
-
 DOMAIN-SUFFIX,chatgptusercontent.com
