@@ -1,12 +1,33 @@
 # 辅助 AI 规则集
 
-# Poe (Quora AI)
+# Poe
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 
 # Grok / xAI
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.x.ai
+
+# Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropicusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.comDOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,api.claude.ai
+DOMAIN-SUFFIX,realtime.claude.ai
+DOMAIN-SUFFIX,ws.claude.ai
+DOMAIN-SUFFIX,stream.claude.ai
+DOMAIN-SUFFIX,cdn.claude.ai
+DOMAIN-SUFFIX,static.claude.ai
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic-com.ghost.io
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
