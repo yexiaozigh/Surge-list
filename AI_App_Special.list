@@ -1,4 +1,5 @@
 # OpenAI APP 专用防漏
-DOMAIN,ios.chat.openai.com
+DOMAIN,chatgpt.com
 DOMAIN,ab.chatgpt.com
 DOMAIN,ws.chatgpt.com
+DOMAIN,ios.chat.openai.com
