@@ -1,0 +1,13 @@
+# NAME: Emby_Custom
+# AUTHOR: yexiaozi
+# UPDATED: 2026-05-25
+# DESCRIPTION: UHDNow / HXD Emby private server rules
+
+# UHDNow
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,42cdn.net
+
+# HXD
+DOMAIN-SUFFIX,as174.de
+DOMAIN-SUFFIX,sakata.one
+DOMAIN,sh.file.myqcloud.com
