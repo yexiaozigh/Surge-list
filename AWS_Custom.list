@@ -1,0 +1,8 @@
+# AWS Console / Account / Lightsail
+
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,signin.aws.amazon.com
+DOMAIN-SUFFIX,console.aws.amazon.com
+DOMAIN-SUFFIX,console.api.aws
+DOMAIN-SUFFIX,lightsail.aws.amazon.com
+DOMAIN-SUFFIX,awsstatic.com
