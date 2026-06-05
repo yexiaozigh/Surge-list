@@ -1,0 +1,15 @@
+# NAME: Nintendo_Custom
+# AUTHOR: yexiaozi
+# UPDATED: 2026-06-05
+# DESCRIPTION: Custom Nintendo Switch / NS2 rules for Surge. Use with extended-matching in RULE-SET to match TLS SNI / HTTP Host.
+
+# Nintendo D4C / ATUM service and download SNI
+DOMAIN-SUFFIX,d4c.srv.nintendo.net
+
+# Broader Nintendo service SNI fallback
+DOMAIN-SUFFIX,srv.nintendo.net
+
+# Nintendo official domains
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.jp
