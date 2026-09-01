@@ -7,6 +7,8 @@
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,42cdn.net
 DOMAIN-SUFFIX,mediacoder95.com
+DOMAIN,v1-vod1.uhdnow.com
+DOMAIN,v1-vod2.uhdnow.com
 
 # HXD
 DOMAIN-SUFFIX,as174.de
