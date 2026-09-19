@@ -11,14 +11,13 @@ DOMAIN-SUFFIX,grok.x.ai
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropicusercontent.com
-DOMAIN-SUFFIX,claudemcpclient.comDOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,api.anthropic.com
 DOMAIN-SUFFIX,api.claude.ai
 DOMAIN-SUFFIX,realtime.claude.ai
 DOMAIN-SUFFIX,ws.claude.ai
