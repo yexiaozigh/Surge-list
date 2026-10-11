@@ -28,12 +28,6 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic-com.ghost.io
 
-# Meta AI
-DOMAIN-SUFFIX,meta.ai
-DOMAIN,ar.graph.meta.com
-DOMAIN,meta.graph.meta.com
-DOMAIN,auth.meta.com
-
 # Microsoft AI / Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,copilot.ai
