@@ -30,6 +30,8 @@ DOMAIN,anthropic-com.ghost.io
 
 # Meta AI
 DOMAIN-SUFFIX,meta.ai
+DOMAIN,ar.graph.meta.com
+DOMAIN,meta.graph.meta.com
 
 # Microsoft AI / Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
