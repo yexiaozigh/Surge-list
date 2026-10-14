@@ -1,7 +1,7 @@
 # NAME: Emby_Custom
 # AUTHOR: yexiaozi
-# UPDATED: 2026-05-25
-# DESCRIPTION: UHDNow / HXD Emby private server rules
+# UPDATED: 2026-10-14
+# DESCRIPTION: UHDNow / HXD / PornEmby private server rules
 
 # UHDNow
 DOMAIN-SUFFIX,uhdnow.com
@@ -14,3 +14,7 @@ DOMAIN,v1-vod2.uhdnow.com
 DOMAIN-SUFFIX,as174.de
 DOMAIN-SUFFIX,sakata.one
 DOMAIN,sh.file.myqcloud.com
+
+# PornEmby
+DOMAIN,p.pornemby.org
+DOMAIN,g.pornemby.org
